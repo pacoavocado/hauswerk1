@@ -19,7 +19,7 @@ The header and footer both had class definitions that were reomoved from the ind
 
 ## SCREENSHOT
 
-<img src="./Assets/images/hauswerkss.png">
+<img src="https://github.com/pacoavocado/hauswerk1/blob/main/assets/images/hauswerkss.png?size=150">
 
 ## Final step
 

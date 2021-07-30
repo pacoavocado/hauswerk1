@@ -19,4 +19,10 @@ The header and footer both had class definitions that were reomoved from the ind
 
 ## SCREENSHOT
 
-(./Assets/images/Screenshot (260).png)
+(./Assets/images/hauswerkss.png)
+
+(./Assets/hauswerkss.png)
+
+## Final step
+
+I did a git pul to access my README.md in vscode. to add the screenshot.  Not sure if I did it right as it fails to show up 
